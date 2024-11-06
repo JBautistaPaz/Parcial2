@@ -6,7 +6,7 @@ main.title("Main")
 main.geometry("700x600")
 main.config(bg="#F3F4F6")
 
-label_total=tk.Label(main, text="¡Bienvenido a tu aplicación favorita de Fitness!", font=("Helvetica", 14, "bold"),
+label_total=tk.Label(main, text="Bienvenido a tu aplicación favorita de Fitness!!", font=("Helvetica", 14, "bold"),
 bg="#F3F4F6", fg="#2D3748")
 label_total.pack(pady=20)
 
